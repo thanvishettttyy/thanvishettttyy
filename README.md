@@ -9,10 +9,10 @@
 
 💻 Technologies I work with:
 
-Front-End: HTML5, CSS3, JavaScript (React, Vue.js, etc.)
-Back-End: Node.js, Express, PHP(laravel)
-Database: MySQL, MongoDB, PostgreSQL
-Tools & Frameworks: Git, Webpack, Docker, TailwindCSS, Bootstrap,laravel
+Front-End: HTML5, CSS3, JavaScript (React, Vue.js, etc.)<br>
+Back-End: Node.js, Express, PHP(laravel)<br>
+Database: MySQL, MongoDB, PostgreSQL<br>
+Tools & Frameworks: Git, Webpack, Docker, TailwindCSS, Bootstrap,laravel<br>
 🌱 Currently learning: cloud computing!!
 
 # 📊 GitHub Stats:
