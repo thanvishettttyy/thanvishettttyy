@@ -11,9 +11,9 @@ Tools & Frameworks: Git, Webpack, Docker, TailwindCSS, Bootstrap,laravel
 🌱 Currently learning: cloud computing!!
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prajwallshetty&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajwallshetty&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwallshetty&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thanvishettttyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thanvishettttyy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanvishettttyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prajwallshetty&theme=radical&no-frame=false&no-bg=false&margin-w=4)
