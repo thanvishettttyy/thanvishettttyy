@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Thanvi, a passionate Web Developer!
 
-<!--
-**thanvishettttyy/thanvishettttyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I specialize in building responsive, user-friendly websites and web applications using modern technologies. I'm always looking to improve my skills and stay updated with the latest trends in front-end and back-end development.
 
-Here are some ideas to get you started:
+💻 Technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End: HTML5, CSS3, JavaScript (React, Vue.js, etc.)
+Back-End: Node.js, Express, PHP(laravel)
+Database: MySQL, MongoDB, PostgreSQL
+Tools & Frameworks: Git, Webpack, Docker, TailwindCSS, Bootstrap,laravel
+🌱 Currently learning: cloud computing!!
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prajwallshetty&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prajwallshetty&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwallshetty&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prajwallshetty&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔗 Check out my projects and contributions below! Feel free to connect if you'd like to collaborate or chat about web development.
